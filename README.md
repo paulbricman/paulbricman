@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently growing [Psionica](https://psionica.org/), an open collective on a mission to augment thought for all.
-- 🔭 I’m currently working on [bringing your second brain to life](https://github.com/Psionica/Dual).
-- 👯 I’m looking to collaborate on transformative tools for thought.
-- 📫 How to reach me: `paulbricman at protonmail dot com`
+I'm currently...
+
+- 🌱 Growing [**Psionica**](https://psionica.org/), an open collective on a mission to augment thought for all.
+- 🔭 Working on [**Dual**](https://github.com/Psionica/Dual), your second brain come to life.
+- 📓 [Learning in public](https://paulbricman.com/secondbrain/).
+- 👯 Looking for collaborators for building transformative tools for thought!
+
+In the following weeks I'll be contributing to [those projects](https://github.com/sponsors/paulbricman?preview=true).

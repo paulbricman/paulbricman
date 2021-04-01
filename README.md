@@ -6,5 +6,3 @@ I'm currently...
 - 🔭 Working on [**Dual**](https://github.com/Psionica/Dual), your second brain come to life.
 - 📓 [Learning in public](https://paulbricman.com/secondbrain/).
 - 👯 Looking for collaborators for building transformative tools for thought!
-
-In the following weeks I'll be contributing to [those projects](https://github.com/sponsors/paulbricman?preview=true).

@@ -1,8 +1,3 @@
-### Hi there 👋
+I’m a Romanian-born Netherlands-based student on a quest to extend the range of ways in which people can think. On the surface, this happens by designing new primitives, mechanics, and affordances which bring together the computational grandeur of machines and the fragile brilliance of minds in a momentary symbiosis of carbon and silicone. On a deeper level, this happens by deliberately laying the foundation of our cognitive infrastructure: a patchwork of composable building blocks which bring firm principles of engineering to the brittle land of human thought.
 
-I'm currently...
-
-- 🌱 Growing [**Psionica**](https://psionica.org/), an open collective on a mission to augment thought for all.
-- :busts_in_silhouette: Working on [**Dual**](https://github.com/Psionica/Dual), your second brain come to life.
-- 📓 [Learning in public](https://paulbricman.com/secondbrain/).
-- 👯 Looking for collaborators for building transformative tools for thought!
+[Read more...](https://paulbricman.com)
